@@ -1,0 +1,14 @@
+
+*{
+    font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+    /* overflow-x: hidden; */
+}
+
+a{
+    text-decoration: none;
+    color: #fff
+}
+ul{
+    list-style: none;
+}

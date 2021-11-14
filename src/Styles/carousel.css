@@ -1,0 +1,41 @@
+.banner-page{
+    display: flex;
+    width: 100vw;
+    justify-content: space-evenly;
+    height: 90vh;
+    /* background-color: rgb(54, 54, 54); */
+    /* align-items: center; */
+}
+.home-content{
+    padding-top: 20vh;
+    width: 50vw;
+    /* margin-right: 20vw; */
+}
+.home-content p{
+    font-size: 18px;
+}
+.home-content button{
+    margin-top: 30px;
+    padding: 15px 40px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background-color: rgba(54, 54, 54, 1);
+}
+.carousel-items{
+    width: 45vw;
+    /* float: right; */
+    /* height: 80vh; */
+    /* margin-right: 20vw; */
+}
+.carousel-items .slides{
+    width: 100%;
+}
+.carousel-container{
+    /* padding-top: 10vh; */
+    width: 45vw;
+}
